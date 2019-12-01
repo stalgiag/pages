@@ -1,0 +1,24 @@
+[
+    {
+        "path": "as-say-1.jpg,as-say-2.jpg,as-say-3.jpg,as-say-4.jpg,is-a-weapon-install-1.jpg",
+        "title": "as say",
+        "artist": "",
+        "description": "Sunt nisi amet pariatur qui. Nisi irure exercitation et veniam qui enim ipsum magna laborum commodo ex ad. Occaecat labore dolor ad sint cillum sit deserunt id cillum. Reprehenderit id commodo ut reprehenderit magna. Voluptate minim consectetur proident in deserunt nostrud nisi elit adipisicing dolor.Excepteur cupidatat laborum irure laborum. Nisi id occaecat labore sit consequat eu enim proident ex consequat ex est magna. Est ut sit elit Lorem amet reprehenderit tempor aute laborum excepteur adipisicing commodo.Reprehenderit dolore adipisicing non eu consectetur ut incididunt reprehenderit tempor laborum sunt. Incididunt enim minim reprehenderit velit ad ipsum quis ullamco. Officia velit occaecat esse tempor. Id culpa nostrud non amet voluptate. Nostrud nulla laborum est id enim est laborum reprehenderit.",
+        "medium": "",
+        "isVideo": "false"
+    },
+    {
+        "path": "not-always-empty-1.jpg,not-always-empty-2.jpg,not-always-empty-3.jpg,",
+        "title": "not always empty",
+        "description": "Eu aliquip qui veniam id ea culpa in ex qui. Veniam dolor esse exercitation irure cupidatat ullamco anim. Non nostrud anim voluptate cillum et esse tempor voluptate. Commodo ullamco aliquip veniam ullamco sunt excepteur amet consectetur ad adipisicing.",
+        "medium": "game design \n experimental electronics",
+        "isVideo": "false"
+    },
+    {
+        "path": "in-or-1.jpg,in-or-2.jpg,in-or-3.jpg,in-or-4.jpg,in-or-install.jpg",
+        "title": "in or, a round sedition",
+        "description": "Eu aliquip qui veniam id ea culpa in ex qui. Veniam dolor esse exercitation irure cupidatat ullamco anim. Non nostrud anim voluptate cillum et esse tempor voluptate. Commodo ullamco aliquip veniam ullamco sunt excepteur amet consectetur ad adipisicing.",
+        "medium": "game design \n experimental electronics",
+        "isVideo": "false"
+    }
+]

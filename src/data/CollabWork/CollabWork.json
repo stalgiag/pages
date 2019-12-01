@@ -1,0 +1,58 @@
+[
+  {
+    "path": "p5-0.png",
+    "title": "p5.js",
+    "artist": "",
+    "description": "p5.js is a JavaScript library that aims to make creative expression and coding on the web accessible and inclusive for artists, designers, educators, and beginners. It is open-source and built under the umbrella of the Processing Foundation which aims to promote software literacy within the visual arts, and visual literacy within technology-related fields — and to make these fields accessible to diverse communities.\n\nThe documentation for p5 has been translated into several languages, and it is used widely in many different contexts throughout the world.\n\nI have been a contributor to the project for years. I have served as a Google Summer of Code mentor for the Processing Foundation for multiple years. I've also served as a year-long fellow, leading the p5 development to the 1.0 release. In 2020, I will join the advisory board for the Processing Foundation.",
+    "isVideo": "false",
+    "medium": ""
+  },
+  {
+    "path": "p5-xr-2.jpg",
+    "title": "p5.xr",
+    "description": "p5.xr is a library that extends p5.js to enable the creation of AR and VR content. This lowers the barrier of entry for XR creation. With p5.xr, artists can create XR sketches in the online p5 editor and these their creations out on mobile devices or VR headsets without complex setup or deployment.\n\nI am the lead developer and project initiator for p5.xr. In 2019, I mentored Vedhant Agarwal as he contributed raycasting to the project.",
+    "isVideo": "false",
+    "artist": "",
+    "medium": ""
+  },
+  {
+    "path": "conditionalstudio-2.png,conditionalstudio-3.jpg,",
+    "title": "Impure Functions",
+    "description": "I worked as an engineer and designer on \"Impure Functions\" which was shown at the Day for Night festival in Houston. \n\nFrom the curator, Alex Czetwertynski: 'Following the success of \"Re-coded\" in 2015, an installation that celebrated code as a way to create art, this year's edition brought a series of suspended screens, each cycling through a series of typical algorithms used to manipulate image and sound with code.  The audience could stand in front of a camera or use their voice in a microphone to see how different techniques produce different results.  Following the format of a \"codex\", the creators of the code were present at the installation to discuss their techniques and approaches, and to give any additional information to the audience.'",
+    "isVideo": "false",
+    "artist": "",
+    "medium": ""
+  },
+  {
+    "path": "anti-gone.jpg,anti-gone-2.jpg",
+    "title": "Anti-gone",
+    "artist": "",
+    "description": "'Anti-gone' is a mixed-reality play by Theo Triantafyllidis. The play blends the virtual and physical by placing actors in motion capture suits and VR headsets to control the 'play' from within a persistent open-world video game.\n\nI worked on 'Anti-gone' as lead software engineer and technical director. 'Anti-Gone' has screened at several venues internationally and was awarded a grant from the Onassiss Foundation.",
+    "isVideo": "false",
+    "medium": ""
+  },
+  {
+    "path": "holodome.jpg,holodome-2.jpg,",
+    "title": "Holodome",
+    "artist": "",
+    "description": "Holodome is an immersive 360 projection dome produced by Vulcan Industries. I worked for Vulcan as a creative director and software engineer on several projects for the Holodome. This work has been exhibited at all of the Holodome locations including the Museum of Pop Culture in Seattle.",
+    "isVideo": "false",
+    "medium": ""
+  },
+  {
+    "path": "the-under.jpg,the-under-2.jpg",
+    "title": "The Under Presents",
+    "artist": "",
+    "description": "I worked as a software engineer on 'The Under Presents' by Tenderclaws, an award-winning indie game studio. I developed the technical infrastructure that allows actors to connect over a network and puppet avatars in real-time inside of a massively-multiplayer online game. \n\n 'The Under Presents' was released in November 2019 for the Oculus Quest. Here is a quick blurb: \n\n'Where immersive theater meets VR gaming. An intriguing multiplayer experience set between two worlds: a jaunty vaudeville stage and the harrowing survival narrative. Uncover the story of a ship stranded in time as supplies dwindle and day-by-day an otherworldly mist rolls closer. Follow characters’ interlocking fates as all journeys forward must turn back or become lost.' ",
+    "isVideo": "false",
+    "medium": ""
+  },
+  {
+    "path": "gatherall-1.jpg",
+    "title": "Gatherall",
+    "artist": "",
+    "description": "Cupidatat sint fugiat ea consectetur proident incididunt Lorem aliquip. Adipisicing ea exercitation est in. Commodo cupidatat aliqua sit enim pariatur incididunt Lorem excepteur.",
+    "isVideo": "false",
+    "medium": ""
+  }
+]
