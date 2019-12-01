@@ -1,21 +1,35 @@
 
-import React from 'react';
+import React, { Component } from 'react';
 
+import { Helmet } from 'react-helmet';
 import Layout from '../../components/layout';
 import Projects from '../../components/project';
 import modifyVariables from '../../components/utilities';
 
 import '../styles/base.scss';
 
-const IndexPage = () => (
-  <div id="container">
-    {modifyVariables('blue', 'rgba(200, 120, 200, 0.3)', 'rgba(255, 255, 255, 0.5)')}
-    <Layout collectionTitle="student work">
-      <div id="images">
-        <Projects workType="student" />
+class IndexPage extends Component {
+  componentDidMount() {
+    modifyVariables('blue', 'rgba(200, 120, 200, 0.3)', 'rgba(255, 255, 255, 0.5)');
+  }
+
+  render() {
+    return (
+      <div id="container">
+        <div id="mobile-site">
+          <p>Sorry this site is only viewable in a non-mobile browser window. Check it out on a laptop or desktop computer.</p>
+        </div>
+        <Helmet>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+        </Helmet>
+        <Layout collectionTitle="student work">
+          <div id="images">
+            <Projects workType="student" />
+          </div>
+        </Layout>
       </div>
-    </Layout>
-  </div>
-);
+    );
+  }
+}
 
 export default IndexPage;
