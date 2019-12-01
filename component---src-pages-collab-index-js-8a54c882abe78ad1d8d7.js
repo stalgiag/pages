@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{OmCJ:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),c=t.n(n),r=t("Bl7J"),o=t("AqoY"),i=t("A9nh");t("XfPW");a.default=function(){return c.a.createElement("div",{id:"container"},Object(i.a)("red","rgba(0, 139, 139, 0.3)","rgba(255, 255, 255, 0.5)"),c.a.createElement(r.a,{collectionTitle:"collaborative & commercial work"},c.a.createElement("div",{id:"images"},c.a.createElement(o.a,{workType:"collab"}))))}}}]);
+//# sourceMappingURL=component---src-pages-collab-index-js-8a54c882abe78ad1d8d7.js.map

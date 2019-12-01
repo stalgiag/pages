@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{OqMM:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),r=n.n(t),c=n("Bl7J"),i=n("AqoY"),o=n("A9nh");n("XfPW");a.default=function(){return r.a.createElement("div",{id:"container"},Object(o.a)("rgb(106,0,255)","rgba(255, 200, 200, 0.3)","rgba(255, 255, 255, 0.5)"),r.a.createElement(c.a,{collectionTitle:"personal work"},r.a.createElement("div",{id:"images"},r.a.createElement(i.a,{workType:"ucsd"}))))}}}]);
+//# sourceMappingURL=component---src-pages-personal-index-js-92c0a4f57e344b2d4e16.js.map

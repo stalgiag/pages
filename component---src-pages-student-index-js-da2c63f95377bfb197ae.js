@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{jPqI:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),c=n("Bl7J"),i=n("AqoY"),o=n("A9nh");n("XfPW");t.default=function(){return r.a.createElement("div",{id:"container"},Object(o.a)("blue","rgba(200, 120, 200, 0.3)","rgba(255, 255, 255, 0.5)"),r.a.createElement(c.a,{collectionTitle:"student work"},r.a.createElement("div",{id:"images"},r.a.createElement(i.a,{workType:"student"}))))}}}]);
+//# sourceMappingURL=component---src-pages-student-index-js-da2c63f95377bfb197ae.js.map
