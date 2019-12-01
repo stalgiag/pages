@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{OqMM:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a),i=t("Bl7J"),o=t("AqoY");t("A9nh"),t("XfPW");n.default=function(){return c.a.createElement("div",{id:"container"},c.a.createElement(i.a,{collectionTitle:"personal work"},c.a.createElement("div",{id:"images"},c.a.createElement(o.a,{workType:"ucsd"}))))}}}]);
+//# sourceMappingURL=component---src-pages-personal-index-js-43a94a29ebb5579b71c7.js.map
