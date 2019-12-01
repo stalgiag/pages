@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{jPqI:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),i=n.n(a),c=n("Bl7J"),o=n("AqoY");n("A9nh"),n("XfPW");t.default=function(){return i.a.createElement("div",{id:"container"},i.a.createElement(c.a,{collectionTitle:"student work"},i.a.createElement("div",{id:"images"},i.a.createElement(o.a,{workType:"student"}))))}}}]);
-//# sourceMappingURL=component---src-pages-student-index-js-45271b6b23bacfcbf88a.js.map
