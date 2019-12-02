@@ -20,7 +20,7 @@ class IndexPage extends Component {
           <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
         </Helmet>
         <div id="mobile-site">Sorry this site is only viewable in a non-mobile browser window. Check it out on a laptop or desktop computer.</div>
-        <Layout collectionTitle="collaborative & commercial work">
+        <Layout collectionTitle="collaborative & commercial work" workType="collab">
           <div id="images">
             <Projects workType="collab" />
           </div>

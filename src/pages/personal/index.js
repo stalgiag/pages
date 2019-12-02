@@ -10,7 +10,7 @@ import '../styles/base.scss';
 
 class IndexPage extends Component {
   componentDidMount() {
-    modifyVariables('rgb(0,0,0)', 'rgba(106, 0, 255, 0.2)', 'rgba(0, 0, 0, 0.3)');
+    modifyVariables('rgb(0,0,0)', 'rgba(20, 0, 100, 0.2)', 'rgba(0, 0, 0, 0.3)');
   }
 
   render() {
@@ -20,7 +20,7 @@ class IndexPage extends Component {
         <Helmet>
           <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
         </Helmet>
-        <Layout collectionTitle="personal work">
+        <Layout collectionTitle="personal work" workType="personal">
           <div id="images">
             <Projects workType="ucsd" />
           </div>

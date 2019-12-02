@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Description = ({ children }) => {
+const Description = ({ children}) => {
   const description = (
     <>
       <main

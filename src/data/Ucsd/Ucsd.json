@@ -1,24 +1,24 @@
 [
     {
-        "path": "as-say-1.jpg,as-say-2.jpg,as-say-3.jpg,as-say-4.jpg,is-a-weapon-install-1.jpg",
+        "path": "is-a-weapon-install-1.jpg,as-say-1.jpg,as-say-2.jpg,as-say-3.jpg,as-say-4.jpg",
         "title": "as say",
         "artist": "",
-        "description": "Sunt nisi amet pariatur qui. Nisi irure exercitation et veniam qui enim ipsum magna laborum commodo ex ad. Occaecat labore dolor ad sint cillum sit deserunt id cillum. Reprehenderit id commodo ut reprehenderit magna. Voluptate minim consectetur proident in deserunt nostrud nisi elit adipisicing dolor.Excepteur cupidatat laborum irure laborum. Nisi id occaecat labore sit consequat eu enim proident ex consequat ex est magna. Est ut sit elit Lorem amet reprehenderit tempor aute laborum excepteur adipisicing commodo.Reprehenderit dolore adipisicing non eu consectetur ut incididunt reprehenderit tempor laborum sunt. Incididunt enim minim reprehenderit velit ad ipsum quis ullamco. Officia velit occaecat esse tempor. Id culpa nostrud non amet voluptate. Nostrud nulla laborum est id enim est laborum reprehenderit.",
-        "medium": "",
-        "isVideo": "false"
-    },
-    {
-        "path": "not-always-empty-1.jpg,not-always-empty-2.jpg,not-always-empty-3.jpg,",
-        "title": "not always empty",
-        "description": "Eu aliquip qui veniam id ea culpa in ex qui. Veniam dolor esse exercitation irure cupidatat ullamco anim. Non nostrud anim voluptate cillum et esse tempor voluptate. Commodo ullamco aliquip veniam ullamco sunt excepteur amet consectetur ad adipisicing.",
-        "medium": "game design \n experimental electronics",
+        "description": "‘as say’ is a work of indeterminate cinema. It is essential that the work is viewed and/or thought about in real-time.\n\nThe vantage point of the camera in ‘as say’ is first-person, viewers see a virtual environment from the eyes of a semi-intelligent humanoid agent. This virtual environment is currently constructing itself, and the agent is confined within it. The agent is animated by a neural network that is acting with a reward state in mind, this state is that of ‘escape’. The agent is trying to minimize the number of barriers between it and the ‘outside’.\n\nAs with all works of indeterminate cinema, ‘as say’ is a network of interlocking feedback loops. The state of the agent, where it exists on a continuum of contained and uncontained determines the quality of the sound, the cameras field of view, the smoothness of the agent’s head node movements, etc.\n\nDuring the exhibition of ‘as say’ the agent learned in real-time, modifying its gradients, adjust its strategy for escape.",
+        "medium": "as say",
         "isVideo": "false"
     },
     {
         "path": "in-or-1.jpg,in-or-2.jpg,in-or-3.jpg,in-or-4.jpg,in-or-install.jpg",
         "title": "in or, a round sedition",
-        "description": "Eu aliquip qui veniam id ea culpa in ex qui. Veniam dolor esse exercitation irure cupidatat ullamco anim. Non nostrud anim voluptate cillum et esse tempor voluptate. Commodo ullamco aliquip veniam ullamco sunt excepteur amet consectetur ad adipisicing.",
-        "medium": "game design \n experimental electronics",
+        "description": "‘in or, a round sedition’ is a work of indeterminate cinema. It is essential that the work is viewed and/or thought about in real-time.\n\nIn ‘in’ avatars generate dialog in realtime using a Seq2Seq neural network. To train the dialog model, I scraped and collected a large portion of leftist texts. These were manifestos, zines, and discussions in radical leftist message boards. I then parsed this large dataset for statements that conformed to a set of conversational rules gleaned from existing chat bot training corpuses such as the NPS Chat Corpus. This subset of statements was then combined with a traditional dialog generation corpus trained on the OPUS dataset, which is compiled from film subtitles. The result is a chatbot with a strained sense of political urgency. The dialog is essentially this (singular) chatbot talking to itself (as a multitude). \n\nThe project makes decisions about the qualities of camera movement, the crop of the shots, the sound, the animations of the avatars by analyzing the sentiment of the generated dialog. This creates a tight feedback loop that allows the film to generate itself.\n\nThe affective sum of the work is a sense of being stuck, stuttering and backsliding movement. The work never repeats in the traditional sense, but there is repetition in the inability for any of the political statement or declarations to resolve fully between the avatars. They may follow a thread with each other, but the limitations of the black box that is their shared consciousness causes them to inevitably return to confusion and dissonance. The viewer may experience the work as funny, unpredictable, but most palpable is the sense of frustration at the inability to unify political will.",
+        "medium": "in or, a round sedition",
+        "isVideo": "false"
+    },
+    {
+        "path": "not-always-empty-1.jpg,not-always-empty-2.jpg,not-always-empty-3.jpg,",
+        "title": "not always empty",
+        "description":"‘not always empty’ is a work of indeterminate cinema. It is essential that the work is viewed and/or thought about in real-time.\n\nWhat is the shape of a dataset? Information visualization is often concerned with representing the shape of data. With ‘not always empty’ I wanted to bring this concern to a game engine and the simulation of physical phenomena. ‘not always empty’ is an empty space, populated by two skeletal figures conjoined at the point of a rock. The rock is a volume representing the current state of a dataset. This dataset is built by a web-crawling algorithm, running in the background, searching for terms related to ‘outrage’. The dataset grows in real-time, but this is not represented in the rock until it is sampled by the figures. The figures use approximations of friction, gravity, and orbit to trace the bounds of the rock. As they trace, the segment of data that they touch is resampled, and the boundaries shift accordingly. Simultaneously, the text that is touched is displayed. ",
+        "medium": "not always empty",
         "isVideo": "false"
     }
 ]

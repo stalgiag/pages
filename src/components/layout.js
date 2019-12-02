@@ -6,14 +6,14 @@
  */
 
 import React from 'react';
-import {Button} from 'react-bootstrap';
+import { Button } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
 
 import Writing from './modal';
 import Header from './header';
 
-const Layout = ({ collectionTitle, children }) => {
+const Layout = ({ collectionTitle, workType, children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -34,8 +34,8 @@ const Layout = ({ collectionTitle, children }) => {
       <footer className="footer">
         {collectionTitle}
       </footer>
-        <Writing />
-        <Button
+      <Writing workType={workType} />
+      <Button
           variant="outline-light"
           id="contact-link"
           href="mailto:stalgia.grigg@gmail.com"
@@ -49,6 +49,7 @@ const Layout = ({ collectionTitle, children }) => {
 Layout.propTypes = {
   collectionTitle: PropTypes.string.isRequired,
   children: PropTypes.node.isRequired,
+  workType: PropTypes.string.isRequired,
 };
 
 export default Layout;

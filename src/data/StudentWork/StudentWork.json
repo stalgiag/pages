@@ -1,97 +1,97 @@
 [
     {
-        "path": "https://player.vimeo.com/video/228267247?color=ffffff&title=0&byline=0&portrait=0",
-        "title": "Phantasm Atlas",
-        "artist": "Sarah Haas and Lilyan Kris",
-        "description": "Phantasm Atlas is an interactive video installation reimagining our bodily anatomy. \n \nIn this installation-performance,  participants wear a silicone sleeve and steer through an Atlas Scan of their body, without the hassle of outdated imaging technology or dissection. To navigate through the experience, users hit the pods on the wearable, and they softly glow in response (or is it in protest?). This project begins as a diagrammatic journey, but becomes an expressive meditation on the structures that quietly restrict the autonomy of certain bodies, while framing radical re-imagination as a way to set us free.",
-        "medium": "interactive installation",
-        "isVideo": "true"
-    },
-    {
         "path": "https://player.vimeo.com/video/263408225?color=ffffff&title=0&byline=0&portrait=0",
         "title": "Real Shadows Shine",
-        "artist": "Miller Klitsner",
-        "description": "'Real Shadows Shine' was created as the final assignment for my 'Intelligent Agents' course. This course explored biomimickry in software development with a heavy focus on life simulation in game AI. In 'Real Shadows Shine', Miller applied these technical strategies to create simulated desert environments of herding creatures that are trying to avoid the sun. The player has a rock that can be spun in place. This alternative interface, which was developed with Arduino, modifies the orientation of the sun. Through this simple mechanic, players are able to change the length and direction of the shadows in the environment, and in so doing guide the simulated inhabitants across the great expanse of desert.",
-        "medium": "game design \n experimental electronics",
+        "artist": "by Miller Klitsner",
+        "description": "Miller made 'Real Shadows Shine' as the final assignment for my 'Intelligent Agents' course. This course explored biomimickry in software development with a heavy focus on life simulation in game AI. In 'Real Shadows Shine', Miller applied these technical strategies to create simulated desert environments of herding creatures that are trying to avoid the sun. The player has a rock that can be spun in place. This alternative interface, which was developed with Arduino, modifies the orientation of the sun. Through this simple mechanic, players are able to change the length and direction of the shadows in the environment, and in so doing guide the simulated inhabitants across the great expanse of desert.",
+        "medium": "game design \n experimental electronics \n artificial intelligence",
         "isVideo": "true"
     },
     {
         "path": "https://player.vimeo.com/video/263395878?color=ffffff&title=0&byline=0&portrait=0",
         "title": "Empty Dreams",
-        "artist": "Jingjie Chen",
-        "description": "Sunt voluptate labore eiusmod duis mollit. Occaecat labore aliquip ut commodo magna elit ex et pariatur laborum non adipisicing. Ad cupidatat consectetur labore esse ipsum elit officia labore non in. Aliqua voluptate incididunt aliquip nostrud elit Lorem Lorem ex sit proident magna. Excepteur proident elit labore tempor voluptate aliqua eu et eiusmod dolor laborum ut in.",
-        "medium": "interactive installation",
+        "artist": "by Jingjie Chen",
+        "description": "'Empty Dreams' is a game design and worldbuilding experiment that uses hand drawn illustrations. Here is a description from the artist: \n\n'Empty Dreams is a journey about finding oneself, about heading towards destinations that are origins. It is a narrative experience where the player explores a world of consciousness and memories. The elements that construct this world are drawn from fragments of memories and emotions, which are somewhat autobiographical of my own experience. Player wakes up in a forest, and starts climbing up a giant mountain of memory fragments and subconscious symbols.'",
+        "medium": "game design \n hand-drawn animation \n interactive storytelling",
         "isVideo": "true"
+    },
+    {
+        "path": "zoe-1.jpg,zoe-2.jpg",
+        "title": "Cloud Recognition",
+        "artist": "by Zoe Ingram",
+        "description": "From the artist:\n\n 'This series explores the relationship between human psychology and digital machines. Rooted in the concept of Pareidolia, a psychological phenomenon triggered by the temporal lobe of the brain, where neurons are responsible for face and object recognition. Feeding refined and intentional image data through many layers of a Convolutional Neural Network, via TensorFlow, we have created a series of images and titles, given by our machine, in attempt to invoke human psychological phenomena through code. I handled the technical aspects of this piece, learning to use TensorFlow’s pretrained Inception model to classify our images. Through several tests with varying parameters, I came to a method of running the Python scripts on our images to get data that was not obvious (as in “cloud”), and with weights that carried our code more into the abstraction between machine and psychology.'",
+        "medium": "machine learning \n book design \n data visualization",
+        "isVideo": "false"
     },
     {
         "path": "https://player.vimeo.com/video/221949956?color=ffffff&title=0&byline=0&portrait=0",
         "title": "Hug Machine AR",
-        "artist": "Kain Suwannaphin",
-        "description": "Ad amet non ipsum reprehenderit eiusmod non deserunt elit magna. Ex incididunt exercitation quis elit. Tempor sunt voluptate occaecat sint incididunt reprehenderit exercitation proident cupidatat nisi non velit aliquip. Aliqua culpa incididunt non sunt minim exercitation. Esse officia cupidatat sint laboris aliqua cupidatat dolore ad commodo adipisicing nostrud magna ullamco. Tempor aute consectetur velit labore id mollit. Mollit duis minim aliquip proident Lorem eu consequat.",
-        "medium": "interactive installation",
+        "artist": "by Kain Suwannaphin",
+        "description": "This project uses marker-based augmented reality and kinetic sculpture to recreate a children storybook by Scott Campbell. The artist installed several moving sculpture throughout the exhibition space. When a viewer pointed their phone at the sculptures they would activate, displaying an animated augmented-reality scene on their phone and while the sculpture uses analog electronics to the 'set' for the scene in time with the events in the animation.",
+        "medium": "augmented reality \n interactive installation \n kinetic sculpture",
         "isVideo": "true"
     },
     {
         "path": "https://player.vimeo.com/video/330108139?color=ffffff&title=0&byline=0&portrait=0",
         "title": "What the Blob",
-        "artist": "Rosalind Chang",
-        "description": "Sint aliqua minim incididunt ut consectetur incididunt culpa adipisicing exercitation sunt nulla aliqua id est. Labore esse magna Lorem velit commodo ipsum ex nulla dolor ullamco. Exercitation nulla sint esse est enim qui proident nulla. Tempor quis est ea mollit eu exercitation. Excepteur dolore mollit ex reprehenderit.",
-        "medium": "interactive installation",
+        "artist": "by Rosalind Chang",
+        "description": "'What the Blob' is an interactive web comic. Here is a description from the artist: \n\n'What the Blob is a non-linear interactive comic exploring ways a comic can be expressed digitally. I've always loved the way graphic novels and comics visually lay out a story in multiple snapshots and was recently curious as to how the graphic novel or comic experience could be translated from print into a digital space. As more and more content is digitalized, I thought it would be interesting to experiment with how the comic, usually static and linear in narrative, could be made into a more interactive and even mysterious experience. \n\nFrom these thoughts sprouted What the Blob which really has no clear narrative in mind, but is open to readers' own thoughts, interpretations, and feelings.'",
+        "medium": "web animation \n interactive storytelling \n computational animation",
         "isVideo": "true"
     },
     {
         "path": "https://player.vimeo.com/video/334789863?color=ffffff&title=0&byline=0&portrait=0",
         "title": "Can I Park Here?",
-        "artist": "Tabatha Yelós",
-        "description": "Deserunt duis anim occaecat consectetur cupidatat quis eiusmod laborum laboris. Cillum labore non ad labore do ex magna duis anim cillum magna laboris. Excepteur nisi sint consectetur Lorem do cillum nisi ex.",
+        "artist": "by Tabatha Yelós",
+        "description": "'Can I Park Here?' is a mobile app that uses machine learning and computer vision to translate convoluted parking signs into readable and personalized information. Here is a short description from the creator:\n\n'Can I Park Here? is a mobile web app that uses artificial intelligence to read parking signs and tell you if you can park there or not. It’s simple: you take a picture of a parking sign, and then it tells you whether you can park there or not.'",
         "medium": "data visualization \n urban design \n augmented reality",
         "isVideo": "true"
     },
     {
         "path": "Allofthem2.png",
         "title": "Soft Wear",
-        "artist": "Lilyan Kris",
-        "description": "This interactive photobooth uses temporary tattoos as AR markers! Each temporary tattoo corresponds with a part of the body and triggers a panel of an illustrated comic. Users are given a body map with directions on how to apply the tattoos to view the narrative linearly, but are encouraged to apply the tattoos 'incorrectly' to choose their own adventure.",
+        "artist": "by Lilyan Kris",
+        "description": "From the artist: \n\n'This interactive photobooth uses temporary tattoos as AR markers! Each temporary tattoo corresponds with a part of the body and triggers a panel of an illustrated comic. Users are given a body map with directions on how to apply the tattoos to view the narrative linearly, but are encouraged to apply the tattoos 'incorrectly' to choose their own adventure.'",
         "medium": "poetic fashion \n augmented reality \n printmaking",
         "isVideo": "false"
     },
     {
         "path": "circuit-breaker-1.png,circuit-breaker-2.png",
         "title": "Circuit Breaker",
-        "artist": "Matthew Broking",
-        "description": "Player One uses a HTC Vive Headset and controllers. Player Two uses a custom built, switchboard, controller and monitor with a direct feed of Player One’s view. The main obstacle of the game is for the players work together to rob a house. Players have 10 minutes to get in and get out. The house is completely dark and the only way for Player One to see where they are is for Player 2 to turn on the lights using the circuit breakers. If Player 2 turns on more than 5 lights simultaeously the neighbors will become suspicous and the timer will run significantly faster.",
-        "medium": "interactive installation \n physics simulations \n data visualization",
+        "artist": "by Matthew Broking",
+        "description": "'Circuit Breaker' is a two player game. One player is in VR and the other has control over a custom-hardware recreation of a circuit breaker which is connected to the VR world. Here is a description from the artist: \n\n'Player One uses a HTC Vive Headset and controllers. Player Two uses a custom built, switchboard, controller and monitor with a direct feed of Player One’s view.\n\n The main objective of the game is for the players work together to rob a house. Players have 10 minutes to get in and get out.\n\nThe house is completely dark and the only way for Player One to see where they are is for Player 2 to turn on the lights using the circuit breakers. If Player 2 turns on more than 5 lights simultaeously the neighbors will become suspicous and the timer will run significantly faster.'",
+        "medium": "interactive installation \n alternate interfaces \n virtual reality",
         "isVideo": "false"
     },
     {
         "path": "https://player.vimeo.com/video/278209899?color=ffffff&title=0&byline=0&portrait=0",
         "title": "Crowded Places",
-        "artist": "Alison Jeng",
-        "description": "Crowded Places is a 2D point-and click immersive experience in which the player navigates through a crowded space with the intention of going home. In order to weave through crowds the player must incorporate audio (loud noises or throat clears) to move on. Throughout the experience/game, the player has a limited energy level that depletes the longer the player remains in the crowded space. Random hideouts and hidden rooms are dispersed around the space for the player to discover and “recharge” mentally before moving on. \n \n The goal of this game is to place players in a situation in which crowds appear to be overwhelming and exhausting. With the incorporation of audio input from the player, the game demonstrates the additional effort and energy required to be acknowledged and “exist” in a large, social situation. The search for hidden havens and hideouts is also intended to depict the satisfaction in finding spaces away from concentrated areas where the player can take time to breath and meditate. ",
-        "medium": "game design \n alternate inputs \n web animation",
+        "artist": "by Alison Jeng",
+        "description": "From the artist: 'Crowded Places is a 2D point-and click immersive experience in which the player navigates through a crowded space with the intention of going home. In order to weave through crowds the player must incorporate audio (loud noises or throat clears) to move on. Throughout the experience/game, the player has a limited energy level that depletes the longer the player remains in the crowded space. Random hideouts and hidden rooms are dispersed around the space for the player to discover and “recharge” mentally before moving on. \n \n The goal of this game is to place players in a situation in which crowds appear to be overwhelming and exhausting. With the incorporation of audio input from the player, the game demonstrates the additional effort and energy required to be acknowledged and “exist” in a large, social situation. The search for hidden havens and hideouts is also intended to depict the satisfaction in finding spaces away from concentrated areas where the player can take time to breath and meditate.'",
+        "medium": "game design \n audio processing \n web animation",
         "isVideo": "true"
     },
     {
         "path": "https://player.vimeo.com/video/275014959?color=ffffff&title=0&byline=0&portrait=0",
         "title": "New Friendly Interface by Tyler Yin",
-        "artist": "Tyler Yin",
-        "description": "This project contains an affect-sensitive / affect-expressive computer interface designed to help members of society who identify as emotionally deficient, socially inept, or who otherwise feel in need of additional emotional labor. Through short “face-to-face” conversations, the Artificial Empathy (or A.E.) service engages with users by acting as a consenting standin for individuals to practice non-verbal and empathetic relationships. Become a Real and emotionally functioning human by experiencing NEW FRIENDLY INTERFACE today!",
+        "artist": "by Tyler Yin",
+        "description": "Description by the artist: \n\n 'This project contains an affect-sensitive / affect-expressive computer interface designed to help members of society who identify as emotionally deficient, socially inept, or who otherwise feel in need of additional emotional labor. Through short “face-to-face” conversations, the Artificial Empathy (or A.E.) service engages with users by acting as a consenting standin for individuals to practice non-verbal and empathetic relationships. Become a Real and emotionally functioning human by experiencing NEW FRIENDLY INTERFACE today!'",
         "medium": "interactive installation \n artificial intelligence \n human-computer relations",
         "isVideo": "true"
     },
     {
         "path": "http://classes.dma.ucla.edu/Summer18/160-1/projects/apotheosis/video.mp4",
-        "title": "Apotheosis",
+        "title": "by Apotheosis",
         "artist": "Celynne Hebron and Brian Yung",
-        "description" : "Apotheosis is a networked VR experience in which users control the creation of 'islands' and natural artifacts with their voice. Natural language processing is used to connect a spoken word to a vocabulary of in-game actions. Viewers of the experience have the opportunity to explore other networked 'islands' created by prior users and reshape them to their will. From the in-experience description: 'Apotheosis is an interactive, voice-based experience that grants the user the power of creation. Through voice recognition, the user declares commands to create their own world. This is a non-linear experience where each user has the capacity to both create and obliterate worlds that they and other people have created.'",
+        "description" : "From the artists: \n\n 'Apotheosis is a networked VR experience in which users control the creation of 'islands' and natural artifacts with their voice. Natural language processing is used to connect a spoken word to a vocabulary of in-game actions. Viewers of the experience have the opportunity to explore other networked 'islands' created by prior users and reshape them to their will. From the in-experience description: 'Apotheosis is an interactive, voice-based experience that grants the user the power of creation. Through voice recognition, the user declares commands to create their own world. This is a non-linear experience where each user has the capacity to both create and obliterate worlds that they and other people have created.'",
         "medium": "speech recognition \n virtual reality \n worldbuilding",
         "isVideo": "true"
     },
     {
         "path": "https://player.vimeo.com/video/261372722?color=ffffff&title=0&byline=0&portrait=0",
         "title": "Cosmic Corporeal",
-        "artist": "Chelly Jin",
-        "description": "Elit excepteur est fugiat minim sunt id non. Cupidatat culpa adipisicing Lorem commodo ea ipsum quis dolor ullamco veniam aliqua. Lorem cillum laborum aliquip mollit labore eu. Sint occaecat incididunt cillum ad sint aliquip nulla ad. Anim non reprehenderit voluptate magna.",
+        "artist": "by Chelly Jin",
+        "description": "After a summer spent interning at NASA JPL, this student wanted to use VR recreate the sensory experience of other atmospheres in our solar system. Through research and experimentation with physics calculations in the game engine, Chelly produced a uniquely embodied VR experience. Here is a description from the artist: \n\n'Cosmic Corporeal aims to simulate a somatic environment inspired by other planetary physics achieved solely through visual illusion and visual interactive feedback in Virtual Reality. Through revising the interaction between an avatar 3D model and the controller in real space, users may associate their hands with the 3D model to somatically feel a physical weight or density in the atmosphere around them. This work is not to replicate the exact astrophysics of outer space, but rather instigate potential research on visual illusion for somatic sensory experience using an exaggerated artistic interpretation.'",
         "medium": "interactive installation \n physics simulations \n data visualization",
         "isVideo": "true"
     
@@ -99,17 +99,17 @@
     {
         "path": "nilo-1.jpg",
         "title": "Finding Something Pleasant / Blocking Out Distractions",
-        "artist": "Nilo Goldfarb",
-        "description": "In their sweeping gesture, the protestors wreak havoc on the ontological model of the office that threatens to encompass them in an image of the universe subjugated to technocratic control. The image evinces the gestalt sense of American anarchy. The protestors position themselves adamantly against the apparent configuration of power represented by the U.S Military in configuration with the strictures of American cultural norms. That is, against the Taylorized work environment, the office and the punch card. The office in the photograph exceeds its locality, standing in as model for a fate to be avoided. The protestors destroy the image and the system. In its place, they insert an image of a haphazard jumble of information colliding with itself.",
-        "medium": "interactive installation \n physics simulations \n data visualization",
+        "artist": "by Nilo Goldfarb",
+        "description": "This project is a 3D model recreation for a political event for which only one photo exists. Here is an excerpt of a written description by the artist: \n\n'In their sweeping gesture, the protestors wreak havoc on the ontological model of the office that threatens to encompass them in an image of the universe subjugated to technocratic control. The image evinces the gestalt sense of American anarchy. The protestors position themselves adamantly against the apparent configuration of power represented by the U.S Military in configuration with the strictures of American cultural norms. That is, against the Taylorized work environment, the office and the punch card. The office in the photograph exceeds its locality, standing in as model for a fate to be avoided. The protestors destroy the image and the system. In its place, they insert an image of a haphazard jumble of information colliding with itself.'",
+        "medium": "3D modeling \n research",
         "isVideo": "false"
     },
     {
-        "path": "zoe-1.jpg,zoe-2.jpg",
-        "title": "Cloud Recognition",
-        "artist": "Zoe Ingram",
-        "description": "This series explores the relationship between human psychology and digital machines. Rooted in the concept of Pareidolia, a psychological phenomenon triggered by the temporal lobe of the brain, where neurons are responsible for face and object recognition. Feeding refined and intentional image data through many layers of a Convolutional Neural Network, via TensorFlow, we have created a series of images and titles, given by our machine, in attempt to invoke human psychological phenomena through code. I handled the technical aspects of this piece, learning to use TensorFlow’s pretrained Inception model to classify our images. Through several tests with varying parameters, I came to a method of running the Python scripts on our images to get data that was not obvious (as in “cloud”), and with weights that carried our code more into the abstraction between machine and psychology.",
-        "medium": "machine learning \n book design \n data visualization",
-        "isVideo": "false"
+        "path": "https://player.vimeo.com/video/228267247?color=ffffff&title=0&byline=0&portrait=0",
+        "title": "Phantasm Atlas",
+        "artist": "by Sarah Haas and Lilyan Kris",
+        "description": "From the artists: \n\n 'Phantasm Atlas is an interactive video installation reimagining our bodily anatomy. \n \nIn this installation-performance,  participants wear a silicone sleeve and steer through an Atlas Scan of their body, without the hassle of outdated imaging technology or dissection. To navigate through the experience, users hit the pods on the wearable, and they softly glow in response (or is it in protest?). This project begins as a diagrammatic journey, but becomes an expressive meditation on the structures that quietly restrict the autonomy of certain bodies, while framing radical re-imagination as a way to set us free.'",
+        "medium": "alternate interfaces \n wearables \n interactive installation",
+        "isVideo": "true"
     }
 ]
